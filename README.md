@@ -127,7 +127,20 @@ Cada coluna significa:
 
 metodo,N,caso,comparacoes,trocas,tempo_ms
 
-Você pode salvar isso em um arquivo `.csv` ou deixar no README.
+## Resultados obtidos no Replit (CSV)
+
+bubble,8,rgm,28,0,0.002
+selection,8,rgm,28,7,0.001
+insertion,8,rgm,7,0,0.001
+bubble,100,aleatorio,4950,2378,0.014
+selection,100,aleatorio,4950,99,0.012
+insertion,100,aleatorio,2474,2378,0.005
+bubble,1000,aleatorio,499500,255696,0.788
+selection,1000,aleatorio,499500,999,1.082
+insertion,1000,aleatorio,256687,255696,0.271
+bubble,10000,aleatorio,49995000,24947062,54.787
+selection,10000,aleatorio,49995000,9999,106.796
+insertion,10000,aleatorio,24957050,24947062,24.098
 
 ---
 
